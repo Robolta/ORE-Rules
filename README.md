@@ -39,9 +39,9 @@ The following are not allowed on any part of ORE:
 The following are not allowed on the survival or seasonal servers:
 
 1. [Using hacks or mods which give an unfair advantage, such as x-ray or fly hacks](#do-not-use-hacks-on-the-survival-server)
-2. [Stealing, Griefing, or otherwise causing issues with someone's base/items]()
-3. [Use any method to determine the seed early]()
-4. [Duping anything other than TNT]()
+2. [Stealing, Griefing, or otherwise causing issues with someone's base/items](#do-not-grief-steal-or-otherwise-cause-issues-with-someones-baseitems)
+3. [Use any method to determine the seed early](#do-not-use-any-method-to-determine-the-seed-early)
+4. [Duping anything other than TNT](#do-not-dupe-anything-other-than-tnt)
 
 For more specific details, read the full rules below or click on an item in the summary to jump to the corresponding rule.
 
