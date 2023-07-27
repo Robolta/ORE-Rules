@@ -176,5 +176,5 @@ If you have been banned, you may appeal it [here](https://discourse.openredstone
 
 Make sure to follow the provided appeal format when posting your appeal. Some bans may have a condition about how long after the ban you can appeal, so make sure to double check the ban reason.
 
-# Last Updated 25th Mar 2023
+# Last Updated 27th Jul 2023
 ###### Members agree not to use our services in the development/maintenance/operation of nuclear weapon systems
