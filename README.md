@@ -36,9 +36,12 @@ The following are not allowed on any part of ORE:
 11. [Running a bot](#do-not-run-any-sort-of-bot-on-ore) (i.e. an automated user/player)
 12. [Bulk collection of ORE user data](#do-not-collect-or-scrape-ore-user-data-without-explicit-opt-in-consent) (such as chat messages)
 
-The following are not allowed on the survival server:
+The following are not allowed on the survival or seasonal servers:
 
 1. [Using hacks or mods which give an unfair advantage, such as x-ray or fly hacks](#do-not-use-hacks-on-the-survival-server)
+2. [Stealing, Griefing, or otherwise causing issues with someone's base/items]()
+3. [Use any method to determine the seed early]()
+4. [Duping anything other than TNT]()
 
 For more specific details, read the full rules below or click on an item in the summary to jump to the corresponding rule.
 
@@ -134,10 +137,24 @@ Sometimes, this data is already logged through some mechanism, such as Minecraft
 
 Large data applications can be fun, but that is outweighed by considerations for the privacy of our members, and so we ask that you respect them by asking for permission before using their data.
 
+# Survival Rules
+The following apply both to Survival and Seasonal, ORE's two Survival Mode Servers.
+
 ### Do not use hacks on the survival server.
 Any hacks, cheats, mods, or tools which give you an unfair advantage are strictly not allowed on the survival server.
 
 That said, you *are* allowed to use most mods/hacks when you're on the *creative* servers. Just be sure to keep [rule 8](#avoid-limiting-the-ability-of-others-to-enjoy-ore) in mind; don't use mods or hacks in a way that will harm other players' experience on the server.
+
+### Do not grief, steal, or otherwise cause issues with someone's base/items.
+Griefing is already outlined in the main rules and it remains against the rules on Survival/Seasonal.
+Stealing refers to taking someone else's items without permission.
+Outside of those two, anything which causes issues relating to someone's Base or Items is equally against the rules.
+
+### Do not use any method to determine the seed early.
+Knowing the seed before it is made public can provide an unfair advantage over other players.
+
+### Do not dupe anything other than TNT.
+Duping refers primarily to abusing unintended avenues to turn blocks or items into more of the same blocks or items.  We allow TNT duping exclusively for its use in many farms, but otherwise duping is not permitted.
 
 # Types of Punishments
 
